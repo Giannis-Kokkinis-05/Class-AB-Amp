@@ -1,2 +1,4 @@
 # Class-AB-Amp
 DIY AB amp pcb using Altium over the summer before 3rd year. I got to learn about making my own pcb schematic library in Altium for the parts I used based on their schematics. I also learned to use the DC to DC step up converter to power the amp. I have uploaded a sound test and an image of the amp.
+
+Update: The push-pull pair was upgraded to a darlington one in order to push more current through the speaker as well as a 47k feedback resistor between the input and the output for more stability. As a result, the amp got pretty loud and also more clear, meaning that there was less distortion of the input signal. The new schematic and the sound test have just been uploaded. Last but not least, we brought it up to our profs lab in order to calculate its efficiency and to graph its power transfer characterstic but because there wasn't the appropriate assistance at the time we didn't manage to get all the measurements we needed unfortunately...
